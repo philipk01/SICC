@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="JCDK2.2.2"/>
+	<classpathentry kind="lib" path="/Middleware/libs/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Middleware/libs/apduio.jar"/>
+	<classpathentry kind="lib" path="/home/philip/Git/SIC/SP/lib/javax.servlet.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

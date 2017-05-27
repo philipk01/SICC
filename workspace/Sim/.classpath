@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/JavaCard"/>
+	<classpathentry kind="lib" path="/home/philip/Git/SIC/workspace/java_card_kit-2_2_2/lib/javacardframework.jar"/>
+	<classpathentry kind="lib" path="/home/philip/Desktop/Y2-S2/Security_in_Computing/Lab_sessions/java_Card_kit/java_card_kit-2_2_2-linux/java_card_kit-2_2_2/java_card_kit-2_2_2-rr-bin-linux-do/lib/apduio.jar"/>
+	<classpathentry kind="lib" path="/home/philip/Desktop/Y2-S2/Security_in_Computing/Lab_sessions/java_Card_kit/java_card_kit-2_2_2-linux/java_card_kit-2_2_2/java_card_kit-2_2_2-rr-bin-linux-do/lib/apdutool.jar"/>
+	<classpathentry kind="lib" path="/home/philip/Desktop/Y2-S2/Security_in_Computing/Lab_sessions/java_Card_kit/java_card_kit-2_2_2-linux/java_card_kit-2_2_2/java_card_kit-2_2_2-rr-bin-linux-do/lib/javacardframework.jar"/>
+	<classpathentry kind="lib" path="/home/philip/Desktop/Y2-S2/Security_in_Computing/Lab_sessions/java_Card_kit/java_card_kit-2_2_2-linux/java_card_kit-2_2_2/java_card_kit-2_2_2-rr-bin-linux-do/lib/jcwde.jar"/>
+	<classpathentry kind="lib" path="/home/philip/Desktop/Y2-S2/Security_in_Computing/Lab_sessions/java_Card_kit/java_card_kit-2_2_2-linux/java_card_kit-2_2_2/java_card_kit-2_2_2-rr-bin-linux-do/lib/jcwde_16.jar"/>
+	<classpathentry kind="lib" path="/home/philip/Git/SIC/Resources/misc/jcardsim/jcardsim-3.0.4-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
